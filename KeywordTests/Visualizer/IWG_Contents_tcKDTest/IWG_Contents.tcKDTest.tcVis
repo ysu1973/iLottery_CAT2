@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{9083A705-9786-49EA-843A-D27DED790F30}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45359.5983217593" objectName="Aliases.browser.pageDiggiGames.textnodeDiggiGames" objectLeft="159" objectTop="260" objectRight="937" objectBottom="304" clickPointX="724" clickPointY="266" imageFileName="tcvi5891593166480.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45359.5984027778" objectName="Aliases.msedge.pageDiggiGames.buttonFindOutMoreAboutGeorgiaCas" objectLeft="875" objectTop="655" objectRight="906" objectBottom="687" clickPointX="896" clickPointY="674" imageFileName="tcvi5898968166483.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45359.5988310185" objectName="Aliases.msedge.pageDiggiGames.textnodeOddHowtopayTabs.linkHowToPlay" objectLeft="348" objectTop="384" objectRight="788" objectBottom="427" clickPointX="566" clickPointY="404" imageFileName="tcvi5936031166486.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="45359.5991319444" objectName="Aliases.msedge.pageDiggiGames.textnodeOddHowtopayTabs.linkGameProceduresOdds" objectLeft="788" objectTop="384" objectRight="1278" objectBottom="427" clickPointX="958" clickPointY="403" imageFileName="tcvi5962171166488.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
