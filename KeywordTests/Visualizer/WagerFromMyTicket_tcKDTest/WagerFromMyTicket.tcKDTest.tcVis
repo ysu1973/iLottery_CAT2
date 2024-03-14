@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{F38EE8DF-9817-4162-8463-D2D9AE567B6D}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45348.7313888889" objectName="Aliases.browser.pageMyFavorites.linkBuyNow" objectLeft="1256" objectTop="496" objectRight="1333" objectBottom="524" clickPointX="1280" clickPointY="520" imageFileName="tcvi20083890137800.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45348.731412037" objectName="Aliases.browser.pageMyFavorites.linkConfirmbtn" objectLeft="808" objectTop="476" objectRight="952" objectBottom="503" clickPointX="890" clickPointY="484" imageFileName="tcvi20086437137801.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45348.7314583333" objectName="Aliases.browser.pageMyFavorites.buttonEmaildrawwager" objectLeft="625" objectTop="908" objectRight="755" objectBottom="937" clickPointX="726" clickPointY="926" imageFileName="tcvi20090359137803.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45348.7315046296" objectName="Aliases.browser.pageMyFavorites.linkSuccesscancelbutton" objectLeft="891" objectTop="924" objectRight="1008" objectBottom="951" clickPointX="974" clickPointY="943" imageFileName="tcvi20094421137804.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
