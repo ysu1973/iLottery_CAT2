@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{751BACE9-3A3D-4458-BD00-BB0707AAF294}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45363.5785648148" objectName="Aliases.msedge.pageDiggiGames.buttonFindOutMoreAboutHoliday" objectLeft="497" objectTop="968" objectRight="528" objectBottom="1000" clickPointX="509" clickPointY="984" imageFileName="tcvi8226390126920.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45363.5793634259" objectName="Aliases.msedge.pageDiggiGames.textnodeOddHowtopayTabs.linkGameProceduresOdds" objectLeft="908" objectTop="304" objectRight="1398" objectBottom="347" clickPointX="1104" clickPointY="334" imageFileName="tcvi8294750126922.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="45363.5793981481" objectName="Aliases.msedge.pageDiggiGames.textnodeTicketPrice0502.linkTicketPrice0502" objectLeft="485" objectTop="493" objectRight="1381" objectBottom="530" clickPointX="604" clickPointY="519" imageFileName="tcvi8297937126923.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="45363.5798148148" objectName="Aliases.msedge.pageDiggiGames.buttonClose" objectLeft="1395" objectTop="93" objectRight="1420" objectBottom="121" clickPointX="1405" clickPointY="104" imageFileName="tcvi8333859126924.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

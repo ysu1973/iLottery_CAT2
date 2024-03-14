@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{72B97BD8-C85E-4149-8333-8A05FC53A1D7}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45363.755462963" objectName="Aliases.msedge.pageDiggiGames2.button" objectLeft="1266" objectTop="309" objectRight="1297" objectBottom="341" clickPointX="1278" clickPointY="321" imageFileName="tcvi720542191600.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="45363.7566435185" objectName="Aliases.msedge.pageDiggiGames2.textnodeHowToPlay.linkOddsAndPrizes" objectLeft="935" objectTop="323" objectRight="1374" objectBottom="366" clickPointX="1110" clickPointY="350" imageFileName="tcvi730698491602.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{8CEC3AC7-E15C-43A0-A361-5D3C6C6D8FD2}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45357.7809259259" objectName="Aliases.browser.pageGeorgiaLottery2.link.textnode" objectLeft="1184" objectTop="84" objectRight="1222" objectBottom="123" clickPointX="1201" clickPointY="109" imageFileName="tcvi21462468181400.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45357.7809722222" objectName="Aliases.browser.pageGeorgiaLottery2.textnodeMyAccount.linkMyTransactions" objectLeft="1046" objectTop="308" objectRight="1222" objectBottom="345" clickPointX="1155" clickPointY="324" imageFileName="tcvi21466656181401.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="45357.781412037" objectName="Aliases.browser.pageMyTransactions2.textnodeHistories.linkFinancialActivitylink" objectLeft="1041" objectTop="399" objectRight="1565" objectBottom="442" clickPointX="1282" clickPointY="422" imageFileName="tcvi21504312181404.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="45357.7818634259" objectName="Aliases.browser.BrowserWindow" objectLeft="-8" objectTop="-8" objectRight="1928" objectBottom="1040" clickPointX="-1" clickPointY="-1" imageFileName="tcvi21543515181405.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

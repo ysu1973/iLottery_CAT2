@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{7B774BD7-6489-420C-9026-91165725FFC0}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45359.7231828704" objectName="Aliases.browser.pageGeorgiaLottery.textnodeAboutUs.linkRetailers" objectLeft="801" objectTop="83" objectRight="870" objectBottom="123" clickPointX="825" clickPointY="101" imageFileName="tcvi16679406228080.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45359.7232175926" objectName="Aliases.browser.pageRetailers.textnodeSidenavigation.linkRetailerfaqsSidenavMenuItem" objectLeft="160" objectTop="515" objectRight="390" objectBottom="544" clickPointX="225" clickPointY="529" imageFileName="tcvi16682359228082.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="45359.7232523148" objectName="Aliases.browser.pageRetailerFaqs.linkWhereIsMyClosestDistrict" objectLeft="411" objectTop="575" objectRight="1195" objectBottom="616" clickPointX="645" clickPointY="586" imageFileName="tcvi16685703228083.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="45359.7232638889" objectName="Aliases.browser.pageRetailerFaqs.linkWhereCanIGetRetailerForms" objectLeft="411" objectTop="684" objectRight="1195" objectBottom="725" clickPointX="641" clickPointY="700" imageFileName="tcvi16686703228084.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="45359.723275463" objectName="Aliases.browser.pageRetailerFaqs.linkIStillHaveQuestionsWhat" objectLeft="411" objectTop="814" objectRight="1195" objectBottom="855" clickPointX="631" clickPointY="815" imageFileName="tcvi16688031228085.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

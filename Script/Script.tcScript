@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="My Transactions">
+			<folder name="Game History">
+				<child name="NoGameHistory_Verification" key="{A4732CD7-B473-4B96-BC40-6093703A1454}" path="NoGameHistory_Verification.js" />
+				<child name="ViewGameHistory_Verification" key="{D845B9B7-A344-436C-8FC7-F96AA5C670EC}" path="ViewGameHistory_Verification.js" />
+			</folder>
+			<folder name="Financial Activity">
+				<child name="ViewFinancialTransactions_Verification" key="{D3C19D42-B070-4F8B-9842-3F3723FE9052}" path="ViewFinancialTransactions_Verification.js" />
+				<child name="TransactionActivityType_Verification" key="{32BAB1ED-244D-4F5A-B193-321218BA0CFE}" path="TransactionActivityType_Verification.js" />
+				<child name="TransactionActivityAmount_Verification" key="{226C877F-75D4-4432-BBC2-98E661639130}" path="TransactionActivityAmount_Verification.js" />
+			</folder>
+		</folder>
+		<folder name="Diggi Games">
+			<folder name="Neo Load Games">
+				<folder name="Neoload High Tier Games">
+					<child name="FortunesOfCleopatra_Selection_NotLoggedIn" key="{6E028A54-C0BD-458F-A780-7ECF5205879D}" path="FortunesOfCleopatra_Selection_NotLoggedIn.js" />
+					<child name="FortunesOfCleopatra_Selection_L1_Player" key="{B3DC1987-00A3-476F-B7CB-9958D0238303}" path="FortunesOfCleopatra_Selection_L1_Player.js" />
+					<child name="FortunesOfCleopatra_Selection_L2_Player" key="{C0EE1B3C-D938-423A-96FE-B843EC17D71A}" path="FortunesOfCleopatra_Selection_L2_Player.js" />
+				</folder>
+				<child name="MarvelousMoney_Selection_L2_Player" key="{1913AEB3-5671-494E-9FD6-C490B610DF8F}" path="MarvelousMoney_Selection_L2_Player.js" />
+				<child name="MarvelousMoney_Selection_NotLoggedIn" key="{18048A0E-7D83-48C0-8EEF-BEE15BF05A4D}" path="MarvelousMoney_Selection_NotLoggedIn.js" />
+				<child name="MarvelousMoney_Selection_L1_Player" key="{7F4665CF-EEF4-484B-BCF8-78A0CD0D1A27}" path="MarvelousMoney_Selection_L1_Player.js" />
+			</folder>
+			<folder name="IWG Games">
+				<folder name="IWG High Tier Games">
+					<child name="WorkInProgress_NotLoggedIn" key="{4FCAF545-8D22-4AF2-A859-E02C831C5FED}" path="WorkInProgress_NotLoggedIn.js" />
+					<child name="WorkInProgress_Selection_L1_Player" key="{AAA51205-D6D4-453B-A99A-146FBD834EC9}" path="WorkInProgress_Selection_L1_Player.js" />
+					<child name="WorkInProgress_Selection_L2_Player" key="{C60F3387-B1D4-4190-8301-1166893B9EA4}" path="WorkInProgress_Selection_L2_Player.js" />
+				</folder>
+				<child name="GeorgiaCashExpander_Selection_NotLoggedIn" key="{E3404256-8681-4813-93BC-31C75397D855}" path="GeorgiaCashExpander_Selection_NotLoggedIn.js" />
+				<child name="GeorgiaCashExpander_Selection_L1_Player" key="{C1B20B6B-09A5-4E32-941B-E0D95CD2BCEB}" path="GeorgiaCashExpander_Selection_L1_Player.js" />
+				<child name="GeorgiaCashExpander_Selection_L2_Player" key="{2DF21F1B-CA7C-41C5-A158-FFC170C4E3D2}" path="GeorgiaCashExpander_Selection_L2_Player.js" />
+			</folder>
+			<folder name="Lucky Seven Game">
+				<child name="LuckySeven_NotLoggedIn" key="{5B8D1281-41A3-4CE2-9925-0BE5D207390A}" path="LuckySeven_NotLoggedIn.js" />
+				<child name="LuckySeven_Selection_L1_Player" key="{AFB5E400-7BB3-4026-8D7A-6C8DADB32907}" path="LuckySeven_Selection_L1_Player.js" />
+				<child name="LuckySeven_Selection_L2_Player" key="{F47B6962-A458-426E-AEB8-259788D62167}" path="LuckySeven_Selection_L2_Player.js" />
+			</folder>
+		</folder>
+		<folder name="Players">
+			<child name="LevelTwoPlayerWithFunds_Login" key="{C84020AD-5861-46B1-8B9B-49A870F629A3}" path="LevelTwoPlayerWithFunds_Login.js" />
+			<child name="LevelOnePlayer_Login" key="{BD0482D2-D065-4A9B-9780-50E1CB0C3FE3}" path="LevelOnePlayer_Login.js" />
+			<child name="LevelOnePlayer_Logout" key="{87267365-A9E8-4885-8E84-BF7F4AFA9196}" path="LevelOnePlayer_Logout.js" />
+			<child name="LevelTwoPlayer_Logout" key="{7261D69C-7636-40C2-B565-A645CBE88DFA}" path="LevelTwoPlayer_Logout.js" />
+		</folder>
+		<child name="Unit1" key="{A0171A75-4F6C-447F-AD0F-18CD6C36CDC3}" path="Unit1.js" />
+		<child name="Georgia_DBTable_wo_BusinessName" key="{6E5B311E-C2FE-4836-BEA4-98D28B86D5AF}" path="Georgia_DBTable_wo_BusinessName.js" />
+		<child name="Georgia_DBTable_wo_ZipCode" key="{0DEEFFF8-2639-4FAA-8CCD-171785AE110A}" path="Georgia_DBTable_wo_ZipCode.js" />
+		<child name="Georgia_DBTable_wo_County" key="{75064E38-9BDB-4F97-8112-9D06DDD29D02}" path="Georgia_DBTable_wo_County.js" />
+		<child name="Georgia_DBTable_wo_City" key="{699B5213-A88F-498E-B937-3D4D18B057CA}" path="Georgia_DBTable_wo_City.js" />
+		<child name="Logins" key="{EBF1FE3F-F9CF-4373-B03E-1C5F20041997}" path="Logins.js" />
+		<child name="Georgia_DBTable" key="{99D40C1A-3423-45B3-B32C-F98F1F4E3810}" path="Georgia_DBTable.js" />
+		<child name="Registration" key="{84C0053B-3D2C-4D95-BA9D-ABA7FC460A4C}" path="Registration.js" />
+		<child name="Test" key="{0D55FB90-A558-486B-A5C7-D88CA76D7C05}" path="Test.js" />
+		<child name="log" key="{824B402C-826C-402E-B797-B36DCCF884EE}" path="log.js" />
+		<child name="Reg1" key="{C04A1A18-3AD0-425A-8145-2C84EDEAFA04}" path="Reg1.js" />
+		<child name="Reusable_Functions" key="{E0D7EE83-DAC8-4085-85A5-DA62E9DF319B}" path="Reusable_Functions.js" />
+		<child name="User_Sign_In" key="{CE3091D2-95BD-4BB0-A056-9C90BA03F8BE}" path="User_Sign_In.js" />
+		<child name="Age_Verification" key="{6B22F5B1-CBA0-42B1-BB51-DDC660ED1CCB}" path="Age_Verification.js" />
+		<child name="Successful_Registration" key="{44808BC5-7B7E-4624-AAA2-1FE3CFFE5186}" path="Successful_Registration.js" />
+		<child name="Form_Submission" key="{8A119809-7AF8-4948-9D52-98DC82DB5664}" path="Form_Submission.js" />
+		<child name="Password_Verification" key="{89DE6DBA-B52D-4925-AF72-7D48E61BF965}" path="Password_Verification.js" />
+		<child name="User_Registration" key="{DF43B38C-3AA2-406E-99F9-337585ACFBAE}" path="User_Registration.js" />
+		<child name="Second_Chance" key="{A7FCF34B-9EED-4C23-B6BD-06BC908D4BDC}" path="Second_Chance.js" />
+		<child name="Cash_Three__Draw_Game_Page" key="{F3BAF902-81E4-4450-B757-B4168AB502A2}" path="Cash_Three__Draw_Game_Page.js" />
+		<child name="Unit5" key="{CF06EA73-B697-408C-82BC-9D26CDE09F25}" path="Unit5.js" />
+		<child name="CloseBrowser_Edge" key="{D59B2085-630B-4F3F-A5B4-6952244D7EF1}" path="CloseBrowser_Edge.js" />
+		<child name="ClearHis_Edge" key="{C7E904CC-E375-44F1-BF39-8D7E547EE6E8}" path="ClearHis_Edge.js" />
+		<child name="Logon_Edge" key="{D1E9CE7A-8AF7-416D-BA7A-065B1C11F080}" path="Logon_Edge.js" />
+	</children>
+</Root>

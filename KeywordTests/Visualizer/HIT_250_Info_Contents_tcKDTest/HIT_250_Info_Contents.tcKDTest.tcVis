@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{0D1B70EC-BBEA-4080-BD0E-DFAB5174C6B7}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45363.7732638889" objectName="Aliases.msedge.pageDiggiGames2.buttonFindOutMoreAboutHit250" objectLeft="1266" objectTop="551" objectRight="1297" objectBottom="583" clickPointX="1278" clickPointY="560" imageFileName="tcvi8742781135120.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45363.7739930556" objectName="Aliases.msedge.pageDiggiGames2.textnodeOnline.linkRetail" objectLeft="1228" objectTop="384" objectRight="1358" objectBottom="427" clickPointX="1308" clickPointY="400" imageFileName="tcvi8805671135121.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="45363.7742824074" objectName="Aliases.msedge.pageDiggiGames2.textnodeHowToPlay.linkOddsAndPrizes" objectLeft="935" objectTop="306" objectRight="1374" objectBottom="349" clickPointX="1049" clickPointY="319" imageFileName="tcvi8830890135122.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="10" kind="0" dateTime="45363.7745833333" objectName="Aliases.msedge.pageDiggiGames2.buttonClose" objectLeft="1380" objectTop="93" objectRight="1405" objectBottom="121" clickPointX="1396" clickPointY="107" imageFileName="tcvi8857250135123.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

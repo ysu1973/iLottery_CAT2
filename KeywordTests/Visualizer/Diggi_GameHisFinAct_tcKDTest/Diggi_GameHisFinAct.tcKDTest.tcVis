@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{E5813381-E577-4454-AFE3-27DA16B5E089}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45358.6076736111" objectName="Aliases.browser.pageGeorgiaLottery.navGeorgiaLottery.textnodeGames.textnodeGames2.linkGames" objectLeft="754" objectTop="126" objectRight="848" objectBottom="186" clickPointX="824" clickPointY="158" imageFileName="tcvi7025703229200.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45358.6077199074" objectName="Aliases.browser.pageGeorgiaLottery2.textnode6" objectLeft="1150" objectTop="195" objectRight="1221" objectBottom="213" clickPointX="1177" clickPointY="203" imageFileName="tcvi7029750229201.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45358.6080208333" objectName="Aliases.browser.pageDiggiGames.buttonBuyNow2" objectLeft="572" objectTop="563" objectRight="764" objectBottom="589" clickPointX="706" clickPointY="577" imageFileName="tcvi7055812229208.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

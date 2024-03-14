@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{A448B127-E2D2-4C91-85E1-74A67C3FEC6B}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45355.5206018519" objectName="Aliases.browser.pageGeorgiaLottery.navGeorgiaLottery.textnodeGames.textnodeGames2.linkGames" objectLeft="634" objectTop="126" objectRight="728" objectBottom="186" clickPointX="683" clickPointY="152" imageFileName="tcvi2557828223680.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45355.5206365741" objectName="Aliases.browser.pageGeorgiaLottery2.navGeorgiaLottery.textnodeGames.textnodeDrawGames.linkBuyNow3" objectLeft="833" objectTop="449" objectRight="897" objectBottom="481" clickPointX="868" clickPointY="455" imageFileName="tcvi2560859223681.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="45355.5211111111" objectName="Aliases.browser.pageGeorgiaLottery6.textnodeFivecctabs.linkHowtoplaylink" objectLeft="341" objectTop="487" objectRight="522" objectBottom="530" clickPointX="449" clickPointY="511" imageFileName="tcvi2601937223683.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="45355.5214467593" objectName="Aliases.browser.pageGeorgiaLottery6.textnodeFivecctabs.linkOddsandprizeslink" objectLeft="522" objectTop="487" objectRight="714" objectBottom="530" clickPointX="611" clickPointY="520" imageFileName="tcvi2630812223684.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

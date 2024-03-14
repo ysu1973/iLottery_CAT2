@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<folder name="Functional Testing">
+			<folder name="Add Fund">
+				<child name="AddFund_func" key="{FFE62894-4215-45A7-9CC2-78F959EF76FF}" path="AddFund_func.tcKDTest" />
+			</folder>
+		</folder>
+		<folder name="Regression Testing">
+			<folder name="Registration">
+				<child name="L1_Registration_Var" key="{EF0677A3-5F47-41CB-83B8-77DFABEFA641}" path="L1_Registration_Var.tcKDTest" />
+				<child name="L2_Registration_Var" key="{4DA20E61-7890-4029-A725-6B6A5870D3BD}" path="L2_Registration_Var.tcKDTest" />
+				<child name="UpgradeL1_To_L2" key="{648D44D4-899C-4420-B827-649A3535D2C9}" path="UpgradeL1_To_L2.tcKDTest" />
+			</folder>
+			<folder name="Home">
+				<child name="Home_links_contents" key="{DE352944-03B6-4DD0-A593-7D09BDFACE45}" path="Home_links_contents.tcKDTest" />
+			</folder>
+			<folder name="COAM">
+				<child name="COAM" key="{105A2714-5210-4174-8F15-7622A167EBBA}" path="COAM.tcKDTest" />
+			</folder>
+			<folder name="Press Center">
+				<child name="PressCenter" key="{1A536DE8-C2F2-493B-8956-AFCD70E55DF9}" path="PressCenter.tcKDTest" />
+				<child name="PressCenter_Press_Releases" key="{E1192BFD-A30F-4103-B7B5-B26341F9B2D4}" path="PressCenter_Press_Releases.tcKDTest" />
+				<child name="PressCenter_MediaKit" key="{A859091F-6BC3-4340-97BD-D1F7C1DEC40C}" path="PressCenter_MediaKit.tcKDTest" />
+				<child name="PressCenter_LogoLibrary" key="{A004160E-35FC-46CF-8D1A-88047E29014A}" path="PressCenter_LogoLibrary.tcKDTest" />
+				<child name="PressCenter_Media_Requests" key="{8D9E5037-1596-4266-867B-3AAD3900027D}" path="PressCenter_Media_Requests.tcKDTest" />
+			</folder>
+			<folder name="BuyNow">
+				<child name="BuyNow_Contents" key="{0D7A9158-4012-4703-828A-C53BBE6FAAE7}" path="BuyNow_Contents.tcKDTest" />
+			</folder>
+			<folder name="Winners">
+				<child name="Winners_Gallery_Contents" key="{90D5C7C9-79F7-4557-9EB8-7DC4627C17BB}" path="Winners_Gallery_Contents.tcKDTest" />
+			</folder>
+			<folder name="Player Zone">
+				<child name="PlayerZone_Lobby_Contents" key="{B6365C7E-DD2B-4D65-8D49-8431BDD0214A}" path="PlayerZone_Lobby_Contents.tcKDTest" />
+				<child name="PlauerZone_AboutBuyNow_Contents" key="{6B4BF7CA-9890-4EDA-849B-DFF5062FB190}" path="PlauerZone_AboutBuyNow_Contents.tcKDTest" />
+				<child name="PlayerZone_Promotions" key="{9A645BC8-7D0C-4626-9D8C-85BCD9AE9343}" path="PlayerZone_Promotions.tcKDTest" />
+				<child name="PlayerZone_AboutPlayersClub_Contents" key="{BF52BAE5-D967-4E9E-A40F-158C39759F9B}" path="PlayerZone_AboutPlayersClub_Contents.tcKDTest" />
+				<child name="PlayerZone_AvoidLotteryScams_Contents" key="{5714326E-FA98-4940-B7F5-97E68E67BF60}" path="PlayerZone_AvoidLotteryScams_Contents.tcKDTest" />
+				<child name="PlayerZone_FAQs" key="{C518ED34-741D-4850-AD07-5F18BD7797F8}" path="PlayerZone_FAQs.tcKDTest" />
+				<child name="PlayerZone_HotNCoolNumbers_Contents" key="{3CF72C29-D349-41FB-9459-1C1D6189A2D9}" path="PlayerZone_HotNCoolNumbers_Contents.tcKDTest" />
+				<child name="PlayerZone_HowToClaim_Contents" key="{CF7DD0FA-A310-44EA-8051-2835990C2030}" path="PlayerZone_HowToClaim_Contents.tcKDTest" />
+				<child name="PlayerZone_OfficialGameRulesAndRegulations_Contents" key="{9BC0AD75-A995-4D65-BA45-78560EFDFDE9}" path="PlayerZone_OfficialGameRulesAndRegulations_Contents.tcKDTest" />
+				<child name="PlayerZone_OpportunitiestoWin_Contents" key="{94F56050-0D51-4DD2-B57C-F63002AE068B}" path="PlayerZone_OpportunitiestoWin_Contents.tcKDTest" />
+				<child name="PlayerZone_WhereToPlay_Contents" key="{61960A8F-5BF5-4C8C-B680-18733B351D36}" path="PlayerZone_WhereToPlay_Contents.tcKDTest" />
+				<child name="PlayerZone_WhereToWatch_Contents" key="{FE740087-7764-4CDE-9F1D-038A078EAC16}" path="PlayerZone_WhereToWatch_Contents.tcKDTest" />
+			</folder>
+			<folder name="Benefitting Georgia">
+				<child name="BenefittingGeorgia_Lobby_Contents" key="{3E46BF0D-1552-4C3D-AEB2-98081BC30432}" path="BenefittingGeorgia_Lobby_Contents.tcKDTest" />
+				<child name="BenefittingGeorgia_CountyProceeds_Contents" key="{05E60F72-5FCA-4704-8DB3-EE81017D43A5}" path="BenefittingGeorgia_CountyProceeds_Contents.tcKDTest" />
+				<child name="BenefittingGeorgia_HOPEAndPreK_Contents" key="{D5C01EBB-721F-4AC9-9235-9E3186718793}" path="BenefittingGeorgia_HOPEAndPreK_Contents.tcKDTest" />
+				<child name="BenefittingGeorgia_ImpactOnGeorgiasEconomy_Contents" key="{BBC849A4-FF83-4CD3-989A-663107A9B0B1}" path="BenefittingGeorgia_ImpactOnGeorgiasEconomy_Contents.tcKDTest" />
+				<child name="BenefittingGeorgia_ResourcesAndDocuments_Contents" key="{EA6B71A6-A9C5-4EF3-BE94-819721312DDA}" path="BenefittingGeorgia_ResourcesAndDocuments_Contents.tcKDTest" />
+				<child name="BenefittingGeorgia_ReturnsToEducation_Conents" key="{B9C11B25-C037-4D0D-BF0C-09D0ECB50496}" path="BenefittingGeorgia_ReturnsToEducation_Conents.tcKDTest" />
+				<child name="BenefittingGeorgia_WhereTheMoneyGoes_Contnets" key="{B452BAAA-3948-4CA4-BAD1-72F0F2261C01}" path="BenefittingGeorgia_WhereTheMoneyGoes_Contnets.tcKDTest" />
+			</folder>
+			<folder name="Wager">
+				<folder name="C3">
+					<child name="C3_Wager_QuickPick" key="{5BE4B31E-61D4-4F7C-B05E-A00CAC4FA8B4}" path="C3_Wager_QuickPick.tcKDTest" />
+					<child name="C3_BuyFromMyTickets" key="{55148BCA-D2D5-45A6-A32C-BA56516AE51F}" path="C3_BuyFromMyTickets.tcKDTest" />
+					<child name="C3_BuyFromMyFavorites" key="{4DFC570F-AB4C-4ED0-8169-690AB15BAB43}" path="C3_BuyFromMyFavorites.tcKDTest" />
+				</folder>
+				<folder name="C4">
+					<child name="C4_Wager_Logon_QuickPick" key="{E45C54D6-C4EA-445D-899F-BB4B76448970}" path="C4_Wager_Logon_QuickPick.tcKDTest" />
+					<child name="C4_BuyFromMy_Favorites" key="{CE366BBD-B2E7-458C-8085-9F51CE0F8530}" path="C4_BuyFromMy_Favorites.tcKDTest" />
+					<child name="C4_BuyFromMyTicketPastDraw" key="{9FD71E14-E7C7-4AF8-8F6A-D8B395FDAF0A}" path="C4_BuyFromMyTicketPastDraw.tcKDTest" />
+				</folder>
+				<folder name="CFL">
+					<child name="CFL_Wager_Logon_QuickPick" key="{19AAC26B-212D-4DBF-BC1F-97A944ABDF83}" path="CFL_Wager_Logon_QuickPick.tcKDTest" />
+					<child name="CFL_BuyFromMy_Favorites" key="{CEC77E1E-4FE2-4D96-8C73-E971FCAC596E}" path="CFL_BuyFromMy_Favorites.tcKDTest" />
+				</folder>
+				<folder name="F5">
+					<child name="F5_Wager_Logon_QuickPick" key="{8C5393AE-4B91-42EF-BD60-3368330F7F48}" path="F5_Wager_Logon_QuickPick.tcKDTest" />
+				</folder>
+				<folder name="Keno">
+					<child name="Keno_Wager_Logon_QuickPick" key="{03163BC0-5054-44EB-81F8-3EF6ED36349C}" path="Keno_Wager_Logon_QuickPick.tcKDTest" />
+				</folder>
+				<folder name="CashPop">
+					<child name="CashPop_Wager_Logon_QuickPick" key="{ED6A0EF4-D9C3-4A4F-8CA9-BF14F8725748}" path="CashPop_Wager_Logon_QuickPick.tcKDTest" />
+					<child name="CashPop_BuyFromMy_Favorites" key="{40672A41-BA6D-4878-A12A-8109A5DF06A9}" path="CashPop_BuyFromMy_Favorites.tcKDTest" />
+					<child name="CashPop_BuyFromMyTicketPastDraw" key="{B7DC30DE-45A7-460E-85D3-02D59691ED5C}" path="CashPop_BuyFromMyTicketPastDraw.tcKDTest" />
+				</folder>
+				<folder name="MM">
+					<child name="MM_Wager_Logon_QuickPick" key="{BE2DDC0B-6E8B-442E-AA69-44D06331EE73}" path="MM_Wager_Logon_QuickPick.tcKDTest" />
+				</folder>
+				<folder name="PB">
+					<child name="PB_Wager_Logon_QuickPick" key="{1C6605ED-654D-4233-8891-38E180907F0B}" path="PB_Wager_Logon_QuickPick.tcKDTest" />
+				</folder>
+				<folder name="Diggi">
+					<child name="NEO_Try" key="{1839E95A-393D-4EE7-8087-9C7205137BDB}" path="NEO_Try.tcKDTest" />
+				</folder>
+			</folder>
+			<folder name="WinningNumber">
+				<child name="WinningNumber_Contents" key="{F7A6A785-09D4-45C5-B5D8-D881B863C22C}" path="WinningNumber_Contents.tcKDTest" />
+			</folder>
+			<folder name="Add Fund">
+				<folder name="Aboubt Us">
+					<child name="AboutUs_Content" key="{C448A107-A3B0-44E8-8421-5308EE247BE7}" path="AboutUs_Content.tcKDTest" />
+					<child name="AboutUs_lottery_reports" key="{E8318A17-4E75-440A-A62B-D7F6761ACBE9}" path="AboutUs_lottery_reports.tcKDTest" />
+					<child name="AboutUs_History" key="{065741A6-8447-407D-B669-DC2D71707112}" path="AboutUs_History.tcKDTest" />
+					<child name="AboutUs_Procurement_Information" key="{93FA9995-A719-402F-88EF-53EAAEB278E0}" path="AboutUs_Procurement_Information.tcKDTest" />
+					<child name="AboutUs_Careers" key="{7B9A0773-F664-4612-B8A9-4B28BC5452DD}" path="AboutUs_Careers.tcKDTest" />
+					<child name="AboutUs_Mission_Vision_Values" key="{4175664B-2791-4887-AA5C-ABFA8E8A04D4}" path="AboutUs_Mission_Vision_Values.tcKDTest" />
+					<child name="AboutUs_Play_Responsibly" key="{CA231C56-DD52-413F-9E61-7190AE0131C2}" path="AboutUs_Play_Responsibly.tcKDTest" />
+					<child name="LogonL2_Player" key="{FB7DC853-21E5-4203-A6C6-A3FDD5A6F02E}" path="LogonL2_Player.tcKDTest" />
+				</folder>
+				<child name="AddFund" key="{2274AF82-E95A-4F4A-9F15-574589E1B1CF}" path="AddFund.tcKDTest" />
+				<child name="CloseBrowser" key="{D0E15011-6EC4-460B-B402-8233E1D55669}" path="CloseBrowser.tcKDTest" />
+			</folder>
+			<folder name="ToolTips">
+				<child name="C3_ToolTips" key="{E1760A19-889C-4389-A01A-6DB60907A10D}" path="C3_ToolTips.tcKDTest" />
+				<child name="C4_ToolTips" key="{EBB39F6E-B301-4CE6-BD29-638DE1B36EB7}" path="C4_ToolTips.tcKDTest" />
+				<child name="CFL_ToolTips" key="{CF4FCF82-1994-4B3D-8AA0-2EC8BBDE2F37}" path="CFL_ToolTips.tcKDTest" />
+				<child name="CP_ToolTips" key="{C1B988FA-5F6F-4B96-A3FB-5A1441A9632B}" path="CP_ToolTips.tcKDTest" />
+				<child name="KN_ToolTips" key="{6CFFA87B-1425-454F-AEF0-3A0769EF4A59}" path="KN_ToolTips.tcKDTest" />
+				<child name="MMToolTips" key="{E10F2D04-2E40-4D03-A001-F6D21B453C57}" path="MMToolTips.tcKDTest" />
+				<child name="F5_ToolTips" key="{825A2D77-9B42-4B01-B122-B3B5864334DA}" path="F5_ToolTips.tcKDTest" />
+				<child name="PP_ToolTips" key="{A64B1610-AA87-47F3-A95D-CB3C02486989}" path="PP_ToolTips.tcKDTest" />
+				<child name="PnP_toolTips" key="{3355F7A4-2C75-4EFC-8546-E6604AE3E9CE}" path="PnP_toolTips.tcKDTest" />
+			</folder>
+			<folder name="My Transactions">
+				<folder name="Game History &amp; Financial Activity">
+					<folder name="Draw Game">
+						<folder name="C3">
+							<child name="C3_GameHis" key="{AD0CE1FF-A8F7-4ACF-A52D-F4D0ED8C4E22}" path="C3_GameHis.tcKDTest" />
+						</folder>
+						<folder name="C4">
+							<child name="C4_GameHis" key="{AE60D8F0-1A86-46D9-AF2D-ECF7375D9C86}" path="C4_GameHis.tcKDTest" />
+						</folder>
+						<folder name="CFL">
+							<child name="CFL_GameHistFinAct" key="{D68FB548-8DE9-431E-A942-4D4371DDE816}" path="CFL_GameHistFinAct.tcKDTest" />
+						</folder>
+						<folder name="CP">
+							<child name="CP_GameHis" key="{18A77B54-90B5-428B-9EC0-1ED8872A504E}" path="CP_GameHis.tcKDTest" />
+						</folder>
+						<folder name="F5">
+							<child name="F5_GameHis" key="{BCBB62F5-19F0-4E8D-ADC1-461D04FB51DC}" path="F5_GameHis.tcKDTest" />
+						</folder>
+						<folder name="KN">
+							<child name="KN_GameHisFinAct" key="{9F976AC4-8BF0-46EC-8361-4AC1E1502DBE}" path="KN_GameHisFinAct.tcKDTest" />
+						</folder>
+						<folder name="MM">
+							<child name="MM_GameHisFinAct" key="{1E9C99A8-F627-49D9-9E0A-84F24590FA7E}" path="MM_GameHisFinAct.tcKDTest" />
+						</folder>
+						<folder name="PB">
+							<child name="PB_GameHisFinAct" key="{ECF56347-833C-4078-94EF-8B6CEAE8C9B8}" path="PB_GameHisFinAct.tcKDTest" />
+						</folder>
+					</folder>
+					<folder name="Diggi">
+						<child name="Diggi_GameHisFinAct" key="{E5813381-E577-4454-AFE3-27DA16B5E089}" path="Diggi_GameHisFinAct.tcKDTest" />
+					</folder>
+					<folder name="QW">
+						<child name="QW_GameHisFinAct" key="{8CEC3AC7-E15C-43A0-A361-5D3C6C6D8FD2}" path="QW_GameHisFinAct.tcKDTest" />
+						<child name="ChormeTest" key="{FC198115-ACB4-477A-A0D1-49CBBAD466ED}" path="ChormeTest.tcKDTest" />
+					</folder>
+					<folder name="IWG">
+						<child name="IWG_GameHitFinAct" key="{1EFD469D-8B84-485B-8199-7FFDF86D42D6}" path="IWG_GameHitFinAct.tcKDTest" />
+					</folder>
+					<folder name="NEO">
+						<child name="NEO_GameHisFinAct" key="{F11669E0-DFE1-4256-82D7-17E103A38398}" path="NEO_GameHisFinAct.tcKDTest" />
+					</folder>
+				</folder>
+			</folder>
+			<folder name="Games_Contents">
+				<folder name="DrawGames">
+					<child name="C3_Lobby_Contents" key="{1CC0E9C5-16A0-4E75-9614-17A01CDCB8AB}" path="C3_Lobby_Contents.tcKDTest" />
+					<child name="C4_Lobby_Contents" key="{254BF9F7-3AAF-4A3B-A00E-9D378CB652D2}" path="C4_Lobby_Contents.tcKDTest" />
+					<child name="CFL_Lobby_Contents" key="{A448B127-E2D2-4C91-85E1-74A67C3FEC6B}" path="CFL_Lobby_Contents.tcKDTest" />
+					<child name="CP_Lobby_Contents" key="{AC1F8A76-94B2-422D-AF82-8628D88D1355}" path="CP_Lobby_Contents.tcKDTest" />
+					<child name="KN_Lobby_Contents" key="{2638CEF5-8D68-4726-BA4F-27178DCAC6DF}" path="KN_Lobby_Contents.tcKDTest" />
+					<child name="MM_Lobby_Contents" key="{8DCCAFCD-DA7F-492E-A63E-D364DDB74C07}" path="MM_Lobby_Contents.tcKDTest" />
+					<child name="F5_Lobby_Contents" key="{82BB017A-0BEF-41B5-B458-B9B74543765A}" path="F5_Lobby_Contents.tcKDTest" />
+					<child name="PB_Lobby_Contents" key="{D1C4222A-80C4-475D-ACC5-C8734C566109}" path="PB_Lobby_Contents.tcKDTest" />
+				</folder>
+				<folder name="Diggi">
+					<child name="Holiday_Treasures_Info_Contents" key="{751BACE9-3A3D-4458-BD00-BB0707AAF294}" path="Holiday_Treasures_Info_Contents.tcKDTest" />
+					<child name="Holiday_Market_Info_Contents" key="{DB47D9FF-814F-4174-99C4-D10E2DF30B58}" path="Holiday_Market_Info_Contents.tcKDTest" />
+					<child name="Lucky7s_Info_Contents" key="{3CADE20C-F8B5-444D-9E65-469C164CF926}" path="Lucky7s_Info_Contents.tcKDTest" />
+					<child name="Dazzling_Diamonds_Deluxe_Info_Contents" key="{BBFE44DD-6F56-4275-982C-5125FF3816D4}" path="Dazzling_Diamonds_Deluxe_Info_Contents.tcKDTest" />
+					<child name="Reef_Riches_Info_Contents" key="{97482111-1040-42F7-B2F4-F15AB8B9098A}" path="Reef_Riches_Info_Contents.tcKDTest" />
+					<child name="Monopoly_Info_Contents" key="{04FBCDEE-2F2B-4C5D-9BDE-1FDD7A0C64E9}" path="Monopoly_Info_Contents.tcKDTest" />
+					<child name="Quick_Pay_Info_Contents" key="{C5F257B1-CFD1-4B6D-9A95-01C883414513}" path="Quick_Pay_Info_Contents.tcKDTest" />
+					<child name="Jumbo_Bucks_Info_Contents" key="{30D96DC1-5B41-4F52-AD64-CAF6F162E291}" path="Jumbo_Bucks_Info_Contents.tcKDTest" />
+				</folder>
+				<folder name="QW">
+					<child name="QW_Lobby_Contents" key="{F60D5525-9CE5-45DA-876D-E501B5644AE1}" path="QW_Lobby_Contents.tcKDTest" />
+					<child name="_100x_TheMoney_Info_Contents" key="{C9E715C9-7832-49D3-A7D4-1F43BC2A2E5A}" path="_100x_TheMoney_Info_Contents.tcKDTest" />
+					<child name="Hit_1000_Info_Contents" key="{263B6240-C516-45DF-9BB4-9E10AA0CF182}" path="Hit_1000_Info_Contents.tcKDTest" />
+					<child name="_50and_100FRENZY_Info_Contents" key="{30BA3873-5BCE-4B24-BD45-1E5E254D1B81}" path="_50and_100FRENZY_Info_Contents.tcKDTest" />
+					<child name="_50x_TheMoney_Info_Contents" key="{72B97BD8-C85E-4149-8333-8A05FC53A1D7}" path="_50x_TheMoney_Info_Contents.tcKDTest" />
+					<child name="HIT_500_Info_Contents" key="{A65E95FC-B38B-4C10-BBA0-22C0C93F38E2}" path="HIT_500_Info_Contents.tcKDTest" />
+					<child name="_25and_50FRENZY_Info_Contents" key="{F12D7479-843C-49DC-A96E-B68C704B7501}" path="_25and_50FRENZY_Info_Contents.tcKDTest" />
+					<child name="_20x_TheMoney_Info_Contents" key="{7C52D215-D5DF-4EF8-B98C-067A484D79E5}" path="_20x_TheMoney_Info_Contents.tcKDTest" />
+					<child name="HIT_250_Info_Contents" key="{0D1B70EC-BBEA-4080-BD0E-DFAB5174C6B7}" path="HIT_250_Info_Contents.tcKDTest" />
+				</folder>
+				<folder name="IWG">
+					<child name="GA_Cash_Expander_Info_Contents" key="{A72C0181-3670-433C-B8FD-384A31F1294B}" path="GA_Cash_Expander_Info_Contents.tcKDTest" />
+				</folder>
+				<folder name="NEO">
+					<child name="Marvelous_Money_Info_Contents" key="{0B1C20A7-6C93-414D-BB80-94A82FD34FE3}" path="Marvelous_Money_Info_Contents.tcKDTest" />
+				</folder>
+			</folder>
+			<folder name="Games">
+				<child name="Draw_Games_Lobby_Contents" key="{9ABA28E9-37F0-44E9-B745-9A96F3A4B2A2}" path="Draw_Games_Lobby_Contents.tcKDTest" />
+				<child name="QuickWin_Lobby_Contents" key="{C1F216DC-B277-4407-8ED7-AD24ECEE04C0}" path="QuickWin_Lobby_Contents.tcKDTest" />
+				<child name="Scratchers_Lobby_Contents" key="{92E48239-A4DA-4480-9134-AE4C8DD5C52B}" path="Scratchers_Lobby_Contents.tcKDTest" />
+				<child name="Scratchers_ActiveGames_Contents" key="{2CFF381F-6F7B-4323-82B2-57CFC653A7CD}" path="Scratchers_ActiveGames_Contents.tcKDTest" />
+				<child name="Scratchers_Ended_Games_Contents" key="{B7BDDC72-7354-405E-AA3F-4F306CA61A1A}" path="Scratchers_Ended_Games_Contents.tcKDTest" />
+				<child name="Scratchers_TopPrizesClaimed_Contents" key="{6258E61A-C722-45E7-9E88-A6D752B81B61}" path="Scratchers_TopPrizesClaimed_Contents.tcKDTest" />
+				<child name="SecondChance_Lobby_Contents" key="{A3F80278-CA18-4F69-91C9-19423D8CE8D4}" path="SecondChance_Lobby_Contents.tcKDTest" />
+				<child name="Diggi_Lobby_Contents" key="{C9D3D4F3-2969-4E28-B4B9-D161F1802109}" path="Diggi_Lobby_Contents.tcKDTest" />
+			</folder>
+			<folder name="Retailers">
+				<child name="Retailers_Home" key="{0999C331-6924-4C6B-A0C3-5DB7665976B9}" path="Retailers_Home.tcKDTest" />
+				<child name="Retailer_BecomeRetailer" key="{8B40877F-D8E1-4CE6-A0B8-F9EE1DD9312C}" path="Retailer_BecomeRetailer.tcKDTest" />
+				<child name="Retailer_Resources" key="{5B693877-F134-40C2-B4D5-5F2F1D402C18}" path="Retailer_Resources.tcKDTest" />
+				<child name="Retailer_RetailerFAQ" key="{7B774BD7-6489-420C-9026-91165725FFC0}" path="Retailer_RetailerFAQ.tcKDTest" />
+				<child name="RetailerContactForm_MessageValidation" key="{12DDE94F-9D3C-47B9-BBA8-B9E6B0D1F8C3}" path="RetailerContactForm_MessageValidation.tcKDTest" />
+			</folder>
+		</folder>
+	</children>
+</Root>

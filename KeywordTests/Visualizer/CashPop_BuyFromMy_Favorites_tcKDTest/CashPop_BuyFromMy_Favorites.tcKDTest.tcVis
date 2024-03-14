@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{40672A41-BA6D-4878-A12A-8109A5DF06A9}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45350.852650463" objectName="Aliases.browser.pageGeorgiaLottery2.link.textnode" objectLeft="1184" objectTop="84" objectRight="1222" objectBottom="123" clickPointX="1206" clickPointY="111" imageFileName="tcvi4650109192920.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="45350.8526851852" objectName="Aliases.browser.pageGeorgiaLottery2.textnodeMyAccount.linkMyFavorites" objectLeft="1046" objectTop="271" objectRight="1222" objectBottom="308" clickPointX="1167" clickPointY="280" imageFileName="tcvi4653312192921.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="45350.8527546296" objectName="Aliases.browser.pageMyFavorites.linkBuyNow" objectLeft="1376" objectTop="496" objectRight="1453" objectBottom="524" clickPointX="1410" clickPointY="509" imageFileName="tcvi4660031192923.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="9" kind="0" dateTime="45350.8527893519" objectName="Aliases.browser.pageMyFavorites.linkConfirmbtn" objectLeft="928" objectTop="398" objectRight="1072" objectBottom="425" clickPointX="1024" clickPointY="410" imageFileName="tcvi4662328192924.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="10" kind="0" dateTime="45350.8528472222" objectName="Aliases.browser.pageMyFavorites.linkKenowagersuccessclose" objectLeft="1018" objectTop="841" objectRight="1135" objectBottom="868" clickPointX="1055" clickPointY="855" imageFileName="tcvi4667609192926.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

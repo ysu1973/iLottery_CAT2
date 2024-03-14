@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{30BA3873-5BCE-4B24-BD45-1E5E254D1B81}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45363.7525462963" objectName="Aliases.msedge.pageDiggiGames2.button" objectLeft="1266" objectTop="884" objectRight="1297" objectBottom="916" clickPointX="1282" clickPointY="900" imageFileName="tcvi6952937241481.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45363.7528125" objectName="Aliases.msedge.pageDiggiGames2.panelAbout2" objectLeft="506" objectTop="366" objectRight="1374" objectBottom="2176" clickPointX="769" clickPointY="377" imageFileName="tcvi6975500241487.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45363.7528356481" objectName="Aliases.msedge.pageDiggiGames2.panelAbout2" objectLeft="506" objectTop="366" objectRight="1374" objectBottom="2176" clickPointX="781" clickPointY="375" imageFileName="tcvi6978390241488.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="45363.752974537" objectName="Aliases.msedge.pageDiggiGames2.textnodeOnline.linkRetail" objectLeft="1228" objectTop="401" objectRight="1358" objectBottom="444" clickPointX="1292" clickPointY="423" imageFileName="tcvi6989609241489.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="9" kind="0" dateTime="45363.7531018518" objectName="Aliases.msedge.pageDiggiGames2.textnodeHowToPlay.linkOddsAndPrizes" objectLeft="935" objectTop="323" objectRight="1374" objectBottom="366" clickPointX="1059" clickPointY="348" imageFileName="tcvi70006712414811.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

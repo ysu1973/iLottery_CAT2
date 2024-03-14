@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="15.0">
+	<children>
+		<child name="pageAboutUs" key="{9CD19EAA-1A2F-4E5D-9224-6CB290A7E6F1}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="pageAboutUs" ID="{9CD19EAA-1A2F-4E5D-9224-6CB290A7E6F1}" FileName="Regions\pageAboutUs.png" Update="False" />
+		</child>
+		<child name="pageWhereTheMoneyGoes" key="{6F91A540-FBF2-46AE-B0C9-5966F634D78D}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="pageWhereTheMoneyGoes" ID="{6F91A540-FBF2-46AE-B0C9-5966F634D78D}" FileName="Regions\pageWhereTheMoneyGoes.png" Update="False" />
+		</child>
+		<child name="panel" key="{B130AA11-864A-4F9F-83A3-708DC52942CF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="panel" ID="{B130AA11-864A-4F9F-83A3-708DC52942CF}" FileName="Regions\panel.png" Update="False" />
+		</child>
+	</children>
+</Root>
