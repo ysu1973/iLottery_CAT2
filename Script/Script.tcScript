@@ -46,12 +46,7 @@
 			<child name="LevelTwoPlayer_Logout" key="{7261D69C-7636-40C2-B565-A645CBE88DFA}" path="LevelTwoPlayer_Logout.js" />
 		</folder>
 		<child name="Unit1" key="{A0171A75-4F6C-447F-AD0F-18CD6C36CDC3}" path="Unit1.js" />
-		<child name="Georgia_DBTable_wo_BusinessName" key="{6E5B311E-C2FE-4836-BEA4-98D28B86D5AF}" path="Georgia_DBTable_wo_BusinessName.js" />
-		<child name="Georgia_DBTable_wo_ZipCode" key="{0DEEFFF8-2639-4FAA-8CCD-171785AE110A}" path="Georgia_DBTable_wo_ZipCode.js" />
-		<child name="Georgia_DBTable_wo_County" key="{75064E38-9BDB-4F97-8112-9D06DDD29D02}" path="Georgia_DBTable_wo_County.js" />
-		<child name="Georgia_DBTable_wo_City" key="{699B5213-A88F-498E-B937-3D4D18B057CA}" path="Georgia_DBTable_wo_City.js" />
 		<child name="Logins" key="{EBF1FE3F-F9CF-4373-B03E-1C5F20041997}" path="Logins.js" />
-		<child name="Georgia_DBTable" key="{99D40C1A-3423-45B3-B32C-F98F1F4E3810}" path="Georgia_DBTable.js" />
 		<child name="Registration" key="{84C0053B-3D2C-4D95-BA9D-ABA7FC460A4C}" path="Registration.js" />
 		<child name="Test" key="{0D55FB90-A558-486B-A5C7-D88CA76D7C05}" path="Test.js" />
 		<child name="log" key="{824B402C-826C-402E-B797-B36DCCF884EE}" path="log.js" />
