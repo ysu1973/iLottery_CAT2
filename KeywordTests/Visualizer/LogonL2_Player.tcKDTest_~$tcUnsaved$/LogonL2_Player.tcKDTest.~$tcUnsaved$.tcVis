@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{FB7DC853-21E5-4203-A6C6-A3FDD5A6F02E}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45345.6038888889" objectName="Aliases.browser.pageGeorgiaLottery2.linkLoginpopup" objectLeft="1177" objectTop="89" objectRight="1282" objectBottom="116" clickPointX="1238" clickPointY="102" imageFileName="tcvi7380234142280.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45345.6039351852" objectName="Aliases.browser.pageGeorgiaLottery2.linkLoginpopup.formLogin.emailinputEmailAddress" objectLeft="1038" objectTop="248" objectRight="1266" objectBottom="283" clickPointX="1225" clickPointY="265" imageFileName="tcvi7384484142281.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45345.6040162037" objectName="Aliases.browser.pageGeorgiaLottery2.linkLoginpopup.formLogin.passwordboxPassword" objectLeft="1038" objectTop="318" objectRight="1266" objectBottom="353" clickPointX="1195" clickPointY="328" imageFileName="tcvi7391562142282.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45345.6041666667" objectName="Aliases.browser.pageGeorgiaLottery2.linkLoginpopup.formLogin.buttonSignIn" objectLeft="1038" objectTop="393" objectRight="1266" objectBottom="420" clickPointX="1164" clickPointY="404" imageFileName="tcvi7404296142283.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
