@@ -45,10 +45,8 @@
 			<child name="LevelOnePlayer_Logout" key="{87267365-A9E8-4885-8E84-BF7F4AFA9196}" path="LevelOnePlayer_Logout.js" />
 			<child name="LevelTwoPlayer_Logout" key="{7261D69C-7636-40C2-B565-A645CBE88DFA}" path="LevelTwoPlayer_Logout.js" />
 		</folder>
-		<child name="Unit1" key="{A0171A75-4F6C-447F-AD0F-18CD6C36CDC3}" path="Unit1.js" />
 		<child name="Logins" key="{EBF1FE3F-F9CF-4373-B03E-1C5F20041997}" path="Logins.js" />
 		<child name="Registration" key="{84C0053B-3D2C-4D95-BA9D-ABA7FC460A4C}" path="Registration.js" />
-		<child name="Test" key="{0D55FB90-A558-486B-A5C7-D88CA76D7C05}" path="Test.js" />
 		<child name="log" key="{824B402C-826C-402E-B797-B36DCCF884EE}" path="log.js" />
 		<child name="Reg1" key="{C04A1A18-3AD0-425A-8145-2C84EDEAFA04}" path="Reg1.js" />
 		<child name="Reusable_Functions" key="{E0D7EE83-DAC8-4085-85A5-DA62E9DF319B}" path="Reusable_Functions.js" />
@@ -60,7 +58,6 @@
 		<child name="User_Registration" key="{DF43B38C-3AA2-406E-99F9-337585ACFBAE}" path="User_Registration.js" />
 		<child name="Second_Chance" key="{A7FCF34B-9EED-4C23-B6BD-06BC908D4BDC}" path="Second_Chance.js" />
 		<child name="Cash_Three__Draw_Game_Page" key="{F3BAF902-81E4-4450-B757-B4168AB502A2}" path="Cash_Three__Draw_Game_Page.js" />
-		<child name="Unit5" key="{CF06EA73-B697-408C-82BC-9D26CDE09F25}" path="Unit5.js" />
 		<child name="CloseBrowser_Edge" key="{D59B2085-630B-4F3F-A5B4-6952244D7EF1}" path="CloseBrowser_Edge.js" />
 		<child name="ClearHis_Edge" key="{C7E904CC-E375-44F1-BF39-8D7E547EE6E8}" path="ClearHis_Edge.js" />
 		<child name="Logon_Edge" key="{D1E9CE7A-8AF7-416D-BA7A-065B1C11F080}" path="Logon_Edge.js" />
